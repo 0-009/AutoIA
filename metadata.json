@@ -1,0 +1,7 @@
+{
+  "name": "AutoIA - Asistente Automotriz Inteligente",
+  "description": "Asistente inteligente especializado en automóviles y camionetas para diagnóstico de fallas, mantenimiento, OBD-II, sistemas mecánicos y refacciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
